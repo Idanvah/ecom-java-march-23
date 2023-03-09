@@ -9,7 +9,7 @@ public class MyFirstTask {
         System.out.println(" ");
         System.out.println(1998);
 
-
+66
 
     }
 }
